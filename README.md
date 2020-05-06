@@ -1,6 +1,6 @@
-# NelsonagamataPalindrome
+# Nelsonagamata Palindrome
 
-A sample Ruby gem created in *[Learn Enough Ruby to Be Dangerous]*(https://learnenough.com/learn_enough_ruby) by Michael Hartl
+A sample Ruby gem created in [*Learn Enough Ruby to Be Dangerous*](https://learnenough.com/learn_enough_ruby) by Michael Hartl
 
 ## Installation
 
